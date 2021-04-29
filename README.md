@@ -13,4 +13,11 @@ You are allowed to moved it to any directory you want.
 The language/framework is PHP & Laravel. 
 The HoneyPot technique is independent of a language or framework
 
+
+TO install:
+
+Clone it
+Generate the key using Artisan Command
+Create database and migrate tables
+
 Enjoy!
